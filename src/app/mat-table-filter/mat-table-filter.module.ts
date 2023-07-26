@@ -5,7 +5,7 @@ import {MatTableFilterComponent} from "./mat-table-filter.component";
 
 
 const routes: Routes = [
-  // { path: '/', component: MatTableFilterComponent }
+  { path: 'app-mat-table-filter', component: MatTableFilterComponent }
 ];
 
 @NgModule({
